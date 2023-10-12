@@ -1,0 +1,29 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    
+}
+.hiking{
+    background-color: #39648c 
+}
+.site-title{
+    color:#ed9700  
+}
+#my-image{
+    box-shadow:0px 0px 2px 1px black;
+}
+ul {
+    list-style-type: square;
+}
+li:nth-child(5) {
+    background:#39648c;
+}
+a:link,a:visited {
+    background-color: #ed9700;
+    border: 3px solid #39648c;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #ffbeff;
+}
+
