@@ -1,0 +1,106 @@
+
+
+.gfg {
+    margin: 3%;
+    position: relative;
+}
+.text-container {
+    position: absolute;
+    color: aliceblue;
+    left: 18rem;
+    top: 2rem;
+    
+    background-color: none;
+    padding: 0 1rem;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+   
+    }
+
+    img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 200px;
+    word-wrap: break-word;
+
+
+}
+
+    
+a{
+    color: aliceblue;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+.nav{
+    background-color: #ff8600;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    border-right: 1px #000 solid;
+    
+}
+
+
+    
+    
+
+
+h3{
+    font-weight: bold;
+    font-size: 25px;
+    float: left;
+
+}
+.wrap{
+    float: left;
+    margin: 5px;
+}
+
+h4{
+    font-weight: bold;
+    font-size: 20px;
+}
+h5{
+    font-size: 18px;
+}
+h6{
+    font-size: 15px;
+}
+
+
+span{
+    float: right;
+}
+body{
+    background-color: #ff8600;
+}
+button{
+    background-color: #ff8600;
+    color: #000;
+}
+#yname{
+    width: 600px;
+    height: 10px;
+}
+#yemail{
+    width: 600px;
+    height: 10px;
+}
+#ymessage{
+    width: 600px;
+    height: 70px;
+}
